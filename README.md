@@ -5,7 +5,6 @@
 </p>
 
 ---
-![Project Screenshot](link-to-image.gif)
 
 ### 🌟 About Me
 - 🎓 I'm a passionate and curious learner in **Cloud Computing, Artificial Intelligence, Machine Learning**, and **Web Development**.
