@@ -46,10 +46,12 @@
 - 📦 MySQL-based booking database
 - 🎯 Real-time vehicle availability & pricing
 
-#### 💬 Quote Generator
-- 💻 Displays motivational quotes using HTML, CSS, JS
-- ☁️ Real-time quote data from Firebase Firestore
-
+#### 💬 Voice Agent MPV
+- 🎙 Real-Time Speech Recognition
+- 🔊 Dynamic Voice Responses
+- 💻 Fully Responsive Design
+- 🌐 Browser-Based Interface
+- 🚀 Deployed on Netlify
 ---
 
 ### 🌐 Let's Connect!
