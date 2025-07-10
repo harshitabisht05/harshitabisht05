@@ -10,6 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech CSE @ UPES | Specializing in **Cloud Computing & Virtualization**
+- 💻 Building responsive web apps using **HTML**, **CSS**, **Next.js** and **Tailwind**.
 - 🔭 Building web apps & exploring **AWS**, **Docker**, and **FastAPI**
 - ☁️ Deploying scalable apps with **AWS cloud services**
 - 💬 Ask me about: Web Dev, MySQL, Git, Cloud Fundamentals
